@@ -1,0 +1,217 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "ClgID": 1204910,
+      "Password": "1204910",
+      "Contactnumber": 1234567891,
+      "EmailId": "1@gmail.com"
+    },
+    {
+      "id": 2,
+      "ClgID": 1204912,
+      "Password": "1204912",
+      "Contactnumber": 1234567892,
+      "EmailId": "2@gmail.com"
+    },
+    {
+      "id": 3,
+      "ClgID": 1204913,
+      "Password": "1204913",
+      "Contactnumber": 1234567893,
+      "EmailId": "3@gmail.com"
+    },
+    {
+      "id": 4,
+      "ClgID": 1204914,
+      "Password": "1204914",
+      "Contactnumber": 1234567894,
+      "EmailId": "4@gmail.com"
+    },
+    {
+      "id": 5,
+      "ClgID": 1204915,
+      "Password": "1204915",
+      "Contactnumber": 1234567895,
+      "EmailId": "5@gmail.com"
+    }
+  ],
+  "Admin": [
+    {
+      "id": 1,
+      "Username": "admin",
+      "Password": "admin",
+      "Contactnumber": 1234567810,
+      "EmailId": "admin@gmail.com"
+    }
+  ],
+  "UserProfile": [
+    {
+      "id": 1,
+      "ClgID": 1204910,
+      "Name": "Name1",
+      "ProfilePIc": "https://t3.ftcdn.net/jpg/03/46/83/96/360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws.jpg",
+      "Contactnumber": 1234567891,
+      "EmailId": "1@gmail.com",
+      "Course": "Course1",
+      "startingyr": 2018,
+      "EndYr": 2022,
+      "Dept": "Dept1",
+      "SkillSet": [
+        "SkillSet1",
+        "SkillSet2",
+        "SkillSet3"
+      ],
+      "ExtraActivies": "ExtraActivies1",
+      "Certificates": "Certificates1",
+      "IsVerified": false
+    },
+    {
+      "id": 2,
+      "ClgID": 1204912,
+      "Name": "Name2",
+      "ProfilePIc": "https://t3.ftcdn.net/jpg/03/46/83/96/360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws.jpg",
+      "Contactnumber": 1234567892,
+      "EmailId": "2@gmail.com",
+      "Course": "Course2",
+      "startingyr": 2020,
+      "EndYr": 2023,
+      "Dept": "Dept2",
+      "SkillSet": [
+        "SkillSet2",
+        "SkillSet4",
+        "SkillSet3"
+      ],
+      "ExtraActivies": "ExtraActivies2",
+      "Certificates": "Certificates2",
+      "IsVerified": true
+    },
+    {
+      "id": 3,
+      "ClgID": 1204913,
+      "Name": "Name3",
+      "ProfilePIc": "https://t3.ftcdn.net/jpg/03/46/83/96/360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws.jpg",
+      "Contactnumber": 1234567893,
+      "EmailId": "3@gmail.com",
+      "Course": "Course3",
+      "startingyr": 2021,
+      "EndYr": 2025,
+      "Dept": "Dept3",
+      "SkillSet": [
+        "SkillSet1",
+        "SkillSet3",
+        "SkillSet5"
+      ],
+      "ExtraActivies": "ExtraActivies3",
+      "Certificates": "Certificates3",
+      "IsVerified": true
+    },
+    {
+      "id": 4,
+      "ClgID": 1204914,
+      "Name": "Name4",
+      "ProfilePIc": "https://t3.ftcdn.net/jpg/03/46/83/96/360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws.jpg",
+      "Contactnumber": 1234567894,
+      "EmailId": "4@gmail.com",
+      "Course": "Course4",
+      "startingyr": 2019,
+      "EndYr": 2024,
+      "Dept": "Dept4",
+      "SkillSet": [
+        "SkillSet2",
+        "SkillSet4",
+        "SkillSet5"
+      ],
+      "ExtraActivies": "ExtraActivies4",
+      "Certificates": "Certificates4",
+      "IsVerified": false
+    },
+    {
+      "id": 5,
+      "ClgID": 1204915,
+      "Name": "Name5",
+      "ProfilePIc": "https://t3.ftcdn.net/jpg/03/46/83/96/360_F_346839683_6nAPzbhpSkIpb8pmAwufkC7c5eD7wYws.jpg",
+      "Contactnumber": 1234567895,
+      "EmailId": "5@gmail.com",
+      "Course": "Course5",
+      "startingyr": 2018,
+      "EndYr": 2023,
+      "Dept": "Dept5",
+      "SkillSet": [
+        "SkillSet2",
+        "SkillSet1",
+        "SkillSet3"
+      ],
+      "ExtraActivies": "ExtraActivies5",
+      "Certificates": "Certificates5",
+      "IsVerified": true
+    }
+  ],
+  "Notifications": [
+    {
+      "id": 1,
+      "Domain": "Unofficial",
+      "noticeDesc": "",
+      "NoticeFile": "1",
+      "D&T": ""
+    },
+    {
+      "id": 2,
+      "Domain": "Official",
+      "noticeDesc": "",
+      "NoticeFile": "1",
+      "D&T": ""
+    },
+    {
+      "id": 3,
+      "Domain": "Official",
+      "noticeDesc": "",
+      "NoticeFile": "1",
+      "D&T": ""
+    },
+    {
+      "id": 4,
+      "Domain": "Official",
+      "noticeDesc": "",
+      "NoticeFile": "1",
+      "D&T": ""
+    }
+  ],
+  "Books": [
+    {
+      "id": 1,
+      "BookName": "Book1",
+      "BookAuthor": "Author1",
+      "BookImg": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-3-CRC.png",
+      "ClgID": 1204914
+    },
+    {
+      "id": 2,
+      "ClgID": 1204913,
+      "BookName": "Book2",
+      "BookAuthor": "Author2",
+      "BookImg": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-3-CRC.png"
+    },
+    {
+      "id": 3,
+      "BookName": "Book3",
+      "BookAuthor": "Author3",
+      "BookImg": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-3-CRC.png",
+      "ClgID": 1204915
+    },
+    {
+      "id": 4,
+      "BookName": "Book4",
+      "BookAuthor": "Author4",
+      "BookImg": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-3-CRC.png",
+      "ClgID": 1204915
+    },
+    {
+      "ClgID": 1204913,
+      "BookName": "Book6",
+      "BookAuthor": "Author6",
+      "BookImg": "https://www.mswordcoverpages.com/wp-content/uploads/2018/10/Book-cover-page-3-CRC.png",
+      "id": 6
+    }
+  ]
+}
