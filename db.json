@@ -36,15 +36,6 @@
       "EmailId": "5@gmail.com"
     }
   ],
-  "Admin": [
-    {
-      "id": 1,
-      "Username": "admin",
-      "Password": "admin",
-      "Contactnumber": 1234567810,
-      "EmailId": "admin@gmail.com"
-    }
-  ],
   "UserProfile": [
     {
       "id": 1,
